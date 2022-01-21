@@ -1,0 +1,9 @@
+2022-01-21 21:04:20 INFO  LoggerTest:8 - 23
+2022-01-21 21:04:42 INFO  LoggerTest:8 - wrcetfqd
+2022-01-21 21:06:10 INFO  LoggerTest:8 - wrcetfqd
+2022-01-21 21:06:10 WARN  LoggerTest:9 - wewrq
+2022-01-21 21:07:06 INFO  LoggerTest:8 - wrcetfqd
+2022-01-21 21:07:06 WARN  LoggerTest:9 - wewrq
+2022-01-21 21:23:09 ERROR LoggerTest:9 - ERROR
+2022-01-21 21:23:33 ERROR LoggerTest:9 - ERROR
+2022-01-21 21:23:33 INFO  LoggerTest:10 - FINE
